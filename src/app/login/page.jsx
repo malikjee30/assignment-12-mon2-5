@@ -11,7 +11,7 @@ const Login =() => {
      <button onClick={() => signIn("google")}>Login with google</button>
     
     
-      {/* <button onClick={() => signIn("github")}>Login with github</button> */}
+     
     </div>
   )
   
